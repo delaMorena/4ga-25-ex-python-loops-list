@@ -6,4 +6,7 @@ print(my_list[2])
 
 # 2. change the position were 'thursday' is to None
 
+my_list[2] = None
+
 # 3. print that position now here
+print(my_list[2])
