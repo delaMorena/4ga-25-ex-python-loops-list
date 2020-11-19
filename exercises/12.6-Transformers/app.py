@@ -7,5 +7,8 @@ incomingAJAXData = [
 ]
 
 #Your code go here:
+def my_var():
+    transformedData
+
 
 
