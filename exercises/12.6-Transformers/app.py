@@ -7,8 +7,12 @@ incomingAJAXData = [
 ]
 
 #Your code go here:
-def my_var():
-    transformedData
+# for value in incomingAJAXData:
+#     print('value: ', value)
+
+# def print_item(value):
+# # def my_var():
+# #     transformedData
 
 
 
